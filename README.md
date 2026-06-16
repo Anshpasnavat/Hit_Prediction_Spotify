@@ -1,11 +1,9 @@
 # Spotify 2023 - Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
-##  Project Overview
 This project performs an in-depth exploratory data analysis (EDA) on Spotify's 2023 dataset containing track information, audio features, and performance metrics. The analysis aims to uncover insights about music trends, artist performance, and what makes songs popular.
 
 ## 📊 Dataset Description
-##  Dataset Description
 The dataset contains:
 - 1000+ tracks from 2023 and historical hits
 - Track metadata (name, artists, release date)
@@ -13,7 +11,6 @@ The dataset contains:
 - Audio features (BPM, key, danceability, energy, etc.)
 
 ## 🔍 Analysis Objectives
-##  Analysis Objectives
 
 ### 1. Top Songs & Artists Analysis
 - Identify most streamed songs and most featured artists
@@ -22,14 +19,12 @@ The dataset contains:
 - Compare characteristics of different clusters
 
 ## 🛠️ Technical Implementation
-##  Technical Implementation
 - Python with Pandas for data manipulation
 - Matplotlib and Seaborn for visualizations
 - Scikit-learn for clustering analysis
 - Jupyter Notebook for interactive analysis
 
 ## 📂 File Structure
-##  File Structure
 ```
 spotify-eda/
 ├── data/
